@@ -20,9 +20,7 @@ public class TestKontrolSenjata {
         KontrolSenjata kontrolM16 = new KontrolSenjata(m16);
         
         kontrolAK47.menembak(2);
-        //System.out.println(ak47.getPeluru());
         kontrolAK47.isiPeluru(3);
-        //System.out.println(ak47.getPeluru());
         kontrolAK47.menembak(5);
         
         System.out.println("==========================");
