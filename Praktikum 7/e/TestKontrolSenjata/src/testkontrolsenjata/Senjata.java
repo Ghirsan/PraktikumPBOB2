@@ -41,24 +41,4 @@ public class Senjata{
     public int getPeluru(){
         return peluru;
     }
-    
-//    public void menembak(int jumlah){
-//        for(int i = 0; i < jumlah; i++){
-//            System.out.print(getBunyi() + " ");
-//        }
-//        System.out.println("");
-//    }
-//    
-//    public void pasangBayonet(){
-//        setMenusuk(true);
-//        System.out.println("Bayonet terpasang");
-//    }
-//    
-//    public String menusuk(){
-//        if(isMenusuk()){
-//            return "Jleb!";
-//        }else{
-//            return "Gagal, belum pasang bayonet";
-//        }
-//    }
 }
